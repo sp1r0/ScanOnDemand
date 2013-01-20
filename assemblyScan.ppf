@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project default_configuration_name="Configuration 1" file_encoding="UTF-8" ltd_name=".net" name="assemblyScan" version="8.6.0.0">
+	<Configuration name="Configuration 1"/>
+	<Source exclude="false" path=".\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll" web="false"/>
+	<Source exclude="false" path=".\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll" web="false"/>
+	<ProjectScanSettings/>
+</Project>
