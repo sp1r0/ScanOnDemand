@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Config allow_large_classpaths="true" clean="true" correct_packages="true" memory_initial="256m" memory_max="1024m" retries_max="3" source_staging="true" stop_on_error="false">
+	<Compile base="C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\" class_path="WebContent\WEB-INF\lib\commons-lang-2.5.jar;WebContent\WEB-INF\lib\derby.jar;..\..\Tomcat\common\lib\commons-el.jar;..\..\Tomcat\common\lib\jasper-compiler-jdt.jar;..\..\Tomcat\common\lib\jasper-compiler.jar;..\..\Tomcat\common\lib\jasper-runtime.jar;..\..\Tomcat\common\lib\jsp-api.jar;..\..\Tomcat\common\lib\naming-factory-dbcp.jar;..\..\Tomcat\common\lib\naming-factory.jar;..\..\Tomcat\common\lib\naming-resources.jar;..\..\Tomcat\common\lib\servlet-api.jar;..\..\Tomcat60\lib\annotations-api.jar;..\..\Tomcat60\lib\catalina-ant.jar;..\..\Tomcat60\lib\catalina-ha.jar;..\..\Tomcat60\lib\catalina-tribes.jar;..\..\Tomcat60\lib\catalina.jar;..\..\Tomcat60\lib\el-api.jar;..\..\Tomcat60\lib\jasper-el.jar;..\..\Tomcat60\lib\jasper-jdt.jar;..\..\Tomcat60\lib\jasper.jar;..\..\Tomcat60\lib\jsp-api.jar;..\..\Tomcat60\lib\servlet-api.jar;..\..\Tomcat60\lib\tomcat-coyote.jar;..\..\Tomcat60\lib\tomcat-dbcp.jar;..\..\Tomcat60\lib\tomcat-i18n-es.jar;..\..\Tomcat60\lib\tomcat-i18n-fr.jar;..\..\Tomcat60\lib\tomcat-i18n-ja.jar" compiler_options="-encoding Cp1252  -source 1.6 -target 1.6" dest="C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\AltoroJ 2.1_staging\WEB-INF\classes" java_home="C:\Program Files\IBM\AppScan Source\JDKS\1.5" source_dir="C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\src" source_path=".\src">
+		<Includes>
+			<File dir="C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\src"/>
+		</Includes>
+		<Excludes>
+		</Excludes>
+	</Compile>
+</Config>

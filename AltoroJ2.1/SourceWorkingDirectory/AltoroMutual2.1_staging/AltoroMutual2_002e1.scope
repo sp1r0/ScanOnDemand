@@ -1,0 +1,41 @@
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\rt.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\ext\dnsns.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\ext\localedata.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\ext\sunjce_provider.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\ext\sunmscapi.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\ext\sunpkcs11.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\alt-rt.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\alt-string.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\charsets.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\deploy.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\javaws.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\jce.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\jsse.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\management-agent.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\plugin.jar
+Primordial,Java,jarFile,C:\Program Files\Java\jdk1.6.0_31\jre\lib\resources.jar
+Extension,Java,binaryDir,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\Pre-compiled\WEB-INF\classes\AltoroMutual2_002e1
+Extension,Java,binaryDir,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\Pre-compiled\WEB-INF\classes\com
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\jasper-runtime.jar
+Extension,Java,jarFile,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\SourceWorkingDirectory\AltoroMutual2.1_staging\WEB-INF\lib\._commons-lang-2.5.jar
+Extension,Java,jarFile,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\SourceWorkingDirectory\AltoroMutual2.1_staging\WEB-INF\lib\._derby.jar
+Extension,Java,jarFile,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\SourceWorkingDirectory\AltoroMutual2.1_staging\WEB-INF\lib\commons-lang-2.5.jar
+Extension,Java,jarFile,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\SourceWorkingDirectory\AltoroMutual2.1_staging\WEB-INF\lib\derby.jar
+Extension,Java,jarFile,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\SourceWorkingDirectory\AltoroMutual2.1_staging\WEB-INF\lib\servlet-api.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\ant-launcher.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\ant.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\commons-collections.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\commons-dbcp-1.1.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\commons-el.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\commons-logging-api.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\commons-pool-1.1.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\jasper-compiler.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\jmx-tools.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\jmx.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\jsp-api.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\naming-common.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\naming-factory.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\naming-java.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\naming-resources.jar
+Extension,Java,jarFile,C:\Program Files\IBM\AppScan Source\tc50\servlet-api.jar
+Application,Java,binaryDir,C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\AltoroJ2.1\SourceWorkingDirectory\AltoroMutual2.1_staging\WEB-INF\classes

@@ -1,0 +1,22 @@
+2012-03-13 08:46:37,868<-Sep->FATAL<-Sep->com.ibm.wala.taint.util.logging.TaintLogger<-Sep->com.ibm.appscan.frameworks.WAFLSpecGen.getWAFLSpecForJavaEEApp(WAFLSpecGen.java:99)<-Sep->IOException while reading scope file or exclusions file<-Sep->
+java.io.IOException: Could not find file: C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion_staging\WEB-INF\lib\._commons-lang-2.5.jar
+	at com.ibm.wala.util.io.FileProvider.getJarFileFromClassLoader(FileProvider.java:280)
+	at com.ibm.wala.util.io.FileProvider.getJarFileModule(FileProvider.java:93)
+	at com.ibm.wala.util.config.AnalysisScopeReader.processScopeDefLine(AnalysisScopeReader.java:124)
+	at com.ibm.wala.util.config.AnalysisScopeReader.read(AnalysisScopeReader.java:74)
+	at com.ibm.wala.util.config.AnalysisScopeReader.readJavaScope(AnalysisScopeReader.java:53)
+	at com.ibm.appscan.frameworks.WAFLSpecGen.getWAFLSpecForJavaEEApp(WAFLSpecGen.java:97)
+	at com.ibm.appscan.frameworks.WAFLSpecGen.generateWAFLSpecForJavaEEApp(WAFLSpecGen.java:261)
+	at com.ibm.appscan.frameworks.FrameworksCLI.runMain(FrameworksCLI.java:41)
+	at com.ibm.appscan.frameworks.FrameworksCLI.main(FrameworksCLI.java:27)
+2012-03-13 08:46:37,868<-Sep->FATAL<-Sep->com.ibm.wala.taint.util.logging.TaintLogger<-Sep->com.ibm.appscan.frameworks.FrameworksCLI.runMain(FrameworksCLI.java:43)<-Sep->uncaught exception<-Sep->
+java.io.IOException: Could not find file: C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion_staging\WEB-INF\lib\._commons-lang-2.5.jar
+	at com.ibm.wala.util.io.FileProvider.getJarFileFromClassLoader(FileProvider.java:280)
+	at com.ibm.wala.util.io.FileProvider.getJarFileModule(FileProvider.java:93)
+	at com.ibm.wala.util.config.AnalysisScopeReader.processScopeDefLine(AnalysisScopeReader.java:124)
+	at com.ibm.wala.util.config.AnalysisScopeReader.read(AnalysisScopeReader.java:74)
+	at com.ibm.wala.util.config.AnalysisScopeReader.readJavaScope(AnalysisScopeReader.java:53)
+	at com.ibm.appscan.frameworks.WAFLSpecGen.getWAFLSpecForJavaEEApp(WAFLSpecGen.java:97)
+	at com.ibm.appscan.frameworks.WAFLSpecGen.generateWAFLSpecForJavaEEApp(WAFLSpecGen.java:261)
+	at com.ibm.appscan.frameworks.FrameworksCLI.runMain(FrameworksCLI.java:41)
+	at com.ibm.appscan.frameworks.FrameworksCLI.main(FrameworksCLI.java:27)

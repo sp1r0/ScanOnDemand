@@ -1,0 +1,111 @@
+<wafl xmlns="http://www.ibm.com/WAFLSchema">
+  <global-bean-decls>
+  </global-bean-decls>
+  <synthetic-methods>
+  </synthetic-methods>
+  <entrypoints>
+    <entrypoint sig="AltoroJ_00202_002e1.admin.admin_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/admin/admin.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.admin.login_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/admin/login.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.apply_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/apply.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.applysuccess_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/applysuccess.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.balance_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/balance.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.customize_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/customize.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.main_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/main.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.queryxpath_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/queryxpath.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.transaction_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/transaction.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.bank.transfer_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/transfer.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.feedback_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/feedback.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.feedbacksuccess_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/feedbacksuccess.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.index_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/index.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.login_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/login.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.notfound_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/notfound.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.search_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/search.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.subscribe_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/subscribe.jsp</url>
+    </entrypoint>
+    <entrypoint sig="AltoroJ_00202_002e1.survey_005fquestions_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/survey_questions.jsp</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.AccountViewServlet.doGet(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/showAccount</url>
+      <url>/bank/showTransactions</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.AccountViewServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/showAccount</url>
+      <url>/bank/showTransactions</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.AdminLoginServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/admin/doAdminLogin</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.AdminServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/admin/addAccount</url>
+      <url>/admin/changePassword</url>
+      <url>/admin/addUser</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.CCApplyServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/ccApply</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.FeedbackServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/sendFeedback</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.LoginServlet.doGet(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/doLogin</url>
+      <url>/logout.jsp</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.LoginServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/doLogin</url>
+      <url>/logout.jsp</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.RedirectServlet.doGet(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/default.aspx</url>
+      <url>/subscribe.aspx</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.SubscribeServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/doSubscribe</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.SurveyServlet.doGet(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/static/doSurvey</url>
+    </entrypoint>
+    <entrypoint sig="com.ibm.rational.appscan.altoromutual.servlet.TransferServlet.doPost(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/doTransfer</url>
+    </entrypoint>
+    <entrypoint sig="javax.servlet.GenericServlet.destroy():void">
+    </entrypoint>
+    <entrypoint sig="javax.servlet.GenericServlet.init(javax.servlet.ServletConfig):void">
+    </entrypoint>
+  </entrypoints>
+  <call-replacements>
+  </call-replacements>
+</wafl>

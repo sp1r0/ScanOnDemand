@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameworkInput type="Java" xmlns="http://www.ibm.com/FrameworkInput">
+	<WaflFile>C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion_frameworksCLI.wafl</WaflFile>
+	<LogConfig>C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion_frameworksCLI_waflLogConfig.xml</LogConfig>
+	<ProjectFile>C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion.ppf</ProjectFile>
+	<JavaInfo>
+		<WebContentRoot>C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion_staging</WebContentRoot>
+		<WalaScopeFile>C:\sandbox\OpenOunce_Dev\_testCode\AltoroJ_Source_Mappings\AltoroJ Scans and Source\AltoroJ Scans and Source\Altoro_JavaVersion_staging\Altoro_JavaVersion.scope</WalaScopeFile>
+		<Options>
+			<Property name="javaee.core.jsp.precompiler" value="tomcat"></Property>
+			<Property name="javaee.core.jsp.precompiler.version" value="50"></Property>
+			<Property name="javaee.core.jsp.package" value="Altoro_JavaVersion"></Property>
+			<Property name="javaee.core.replaceSetGetAttributeCalls" value="false"></Property>
+		</Options>
+	</JavaInfo>
+</FrameworkInput>
